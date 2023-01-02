@@ -3,7 +3,7 @@
 An Instrumentation & Control Eng student passionate about Industrial Control Systems and the vast world of Process Control.
  I’m interested in automation  and PLC development in Beckhoff TwinCAT3.
 
-I'm gaining interest in learning about Digital Circuits and their implementation using HDLs such as Verilog
+I'm gaining interest in learning about Digital Circuits and their implementation using HDLs such as Verilog.
 
 Skills: MATLAB / Structured Text / C++ / HTML 
 
